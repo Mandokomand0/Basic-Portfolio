@@ -81,6 +81,7 @@ h2{
 	padding-bottom: 20px;
 	border-style: solid;
 	border-color: #dddddd;
+	border-width: 2px
 }
 h4{
 	font-size: 1.5em;
@@ -106,6 +107,7 @@ h4{
 	margin: 150px 50px 75px 150px;
 	border-style: solid;
 	border-color: #dddddd;
+	border-width: 2px;
 	line-height: 32px;
 	float: left;
 /*	margin-top: 10%;
